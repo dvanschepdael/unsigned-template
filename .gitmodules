@@ -1,0 +1,6 @@
+[submodule "external/ngdevkit"]
+	path = external/ngdevkit
+	url = https://github.com/dciabrin/ngdevkit.git
+[submodule "external/unsigned"]
+	path = external/unsigned
+	url = https://github.com/dvanschepdael/unsigned.git

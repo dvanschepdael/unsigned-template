@@ -1,0 +1,18 @@
+# Generated SDK, objects, libraries, ROMs and emulator data
+/build/
+
+# Machine-specific build configuration
+/config.local.mk
+
+# Local emulator output and configuration
+/gngeo_log.txt
+/.gngeo/
+
+# Python caches from asset and build tools
+__pycache__/
+*.py[cod]
+
+# Editor temporary files and backups
+*.swp
+*.swo
+*~
